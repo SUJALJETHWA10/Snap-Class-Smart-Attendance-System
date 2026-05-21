@@ -29,7 +29,6 @@ AI & Machine Learning
 OpenCV
 Face Recognition
 Speech Recognition
-MediaPipe
 NumPy
 
 Database
