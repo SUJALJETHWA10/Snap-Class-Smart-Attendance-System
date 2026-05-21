@@ -97,9 +97,3 @@ Built using **Streamlit**, **Machine Learning**, **Computer Vision**, and **Voic
 
 ---
 
-## 📦 Installation
-
-### Clone Repository
-```bash
-git clone https://github.com/your-username/Snap-Class-Smart-Attendance-System.git
-cd Snap-Class-Smart-Attendance-System
